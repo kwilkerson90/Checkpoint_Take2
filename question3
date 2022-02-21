@@ -1,0 +1,4 @@
+#If the name of a file is app.py what do we type in the command line to tell our computer to run it?
+
+print(app.py)
+
