@@ -1,6 +1,5 @@
 1) What are comments?
 
-
 2) Demonstrate at least 2 ways to create a comment. One should be for multiple lines.
 
 
