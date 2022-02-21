@@ -1,0 +1,11 @@
+#Demonstrate at least 2 ways to create a comment. One should be for multiple lines.
+
+#You can leave a comment by starting it with the pound sign 
+
+"""
+You can also create a multiline 
+comment it by starting it 
+and ending it with triple quotes.
+"""
+
+
