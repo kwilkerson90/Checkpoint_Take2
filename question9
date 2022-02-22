@@ -1,0 +1,6 @@
+#What's the key difference between git revert and git reset?
+
+
+#The main difference between git revert and git reset is the history
+
+#git revert tracks changes, but does not get rid of the history
