@@ -1,9 +1,0 @@
-#Demonstrate at least 2 ways to create a comment. One should be for multiple lines.
-
-#You can create a comment using the pound sign 
-
-"""
-You can also create a multiline comment
-by starting it and ending it 
-in triple quotes.
-"""
