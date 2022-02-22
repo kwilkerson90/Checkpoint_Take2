@@ -1,0 +1,14 @@
+#What can be used in order to repeat some block of code? Provide 2 examples.
+
+#You can use loops to repeat blocks of code
+
+#You can use the while loop to execute a set of statements as long as a condition is true; W3Schools
+z=1
+while i < 11:
+    print(z)
+    z += 11
+
+#If you have a block of code that you want to repeat a fixed number of times, you can use the for loop; WikiPython
+for z in range(1,111):
+    print(z)
+    
