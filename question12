@@ -1,0 +1,19 @@
+#Describe the anatomy of a Python dictionary and create one below.
+
+
+
+#A dictionary is "a collection that is ordered, changeable and does not allow duplicates". (W3Schools)
+
+#Dictionaries are used to store data in key:value pairs
+
+
+
+zodiacs = {
+
+    "January": "Capricorn",
+
+    "August": "Leo",
+
+    "November": "Scorpio"
+
+}
